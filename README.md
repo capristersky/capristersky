@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm 신윤수 👋
 
+**동아시아학 전공에서 소프트웨어 개발자로 전환한 싸피 14기 입과생입니다.**
 
-**capristersky/capristersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📚 Background
+동아시아학에서 중국어를 공부하고 졸업한 뒤, 다시 학교에 들어가  
+웹개발과 소프트웨어를 공부했던 경험이 있습니다.  
+웹 분야 중에서도 **백엔드 개발**에 특히 관심이 많습니다.
 
+### 🧠 Personality
+저는 **INFJ** 성향이지만, 낯선 사람과 대화하는 걸 어려워하지 않아서  
+종종 사람들이 저를 E로 오해하곤 합니다.
+
+### 🎾 Interests
+요즘엔 **피클볼**이라는 스포츠에 푹 빠져 있습니다!
+
+### 🚀 Why SSAFY
+협업과 팀 프로젝트를 통해 함께 성장하며, 개발자로 나아가는 길을 걷고 싶습니다.  
+같은 목표를 가진 여러분과 함께 **도전**하는 이 시간이 기대됩니다.
+
+---
+
+## 💬 Lastly,
+
+우리 모두 처음 배우는 것이 많고, 때로는 어려움도 있겠지만  
+서로 격려하며 도와주는 **훈훈한 17반**이 되었으면 좋겠습니다!
+
+---
+
+> _"함께 성장하는 개발자, 신윤수입니다."_ 🌱
